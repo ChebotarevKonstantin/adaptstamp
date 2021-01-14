@@ -1,0 +1,24 @@
+.contaner {
+  display: flex;
+  margin: 10px;
+}
+
+div {
+  margin: 10px;
+}
+
+.stamp {
+  min-height: 50px;
+  width: 100%;
+  border-width: 5px;
+  border-color: #006198;
+  margin: 0;
+
+}
+
+
+.button{
+  background-color: #006198;
+  width: 100%;
+  margin: 0;
+ }
